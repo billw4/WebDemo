@@ -1,0 +1,59 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ώ°υ¨8±ρώ/
+N
+java:S1121".Extract the assignment out of this expression.(ίδύÿÿÿÿ8±ρώ/
+O
+java:S1481"4Remove this unused "lastItemInTable" local variable.(Ή©ς8±ρώ/
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ΊΞ―8±ρώ/
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ϋ½³Γώÿÿÿÿ8±ρώ/
+΅
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ΡΐΤδύÿÿÿÿ8±ρώ/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ώ°υ¨8±ρώ/
+^
+java:S1854"CRemove this useless assignment to local variable "lastItemInTable".(Ή©ς8±ρώ/
+G
+java:S1659"'Declare "minorDent" on a separate line.(¥ή»όÿÿÿÿ8±ρώ/
+s
+java:S1192"SDefine a constant instead of duplicating this literal "https://copart.com" 4 times.(΄™ΟΉψÿÿÿÿ8±ρώ/
+΅
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©‘“΅ωÿÿÿÿ8±ρώ/
+I
+java:S1121".Extract the assignment out of this expression.(ά©΅―8±ρώ/
+_	java:S112"FDefine and throw a dedicated exception instead of using a generic one.( ΞΣ
+8±ρώ/
+I
+java:S1121".Extract the assignment out of this expression.(ΉΜβ8±ρώ/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·γ‚‹8±ρώ/
+^
+java:S1854"CRemove this useless assignment to local variable "lastItemInTable".(ΎΏε8±ρώ/
+O
+java:S1481"4Remove this unused "lastItemInTable" local variable.(ΎΏε8±ρώ/
+K
+java:S1659"+Declare "undercarriage" on a separate line.(¥ή»όÿÿÿÿ8±ρώ/
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ερ­ύÿÿÿÿ8±ρώ/
+[	java:S125"<This block of commented-out lines of code should be removed.(ξ½ά‚ÿÿÿÿÿ8±ρώ/
+r
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ΤθΛ©ϊÿÿÿÿ8±ρώ/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(°κΓΑύÿÿÿÿ8±ρώ/
+†
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.( ΞΣ
+8±ρώ/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(©ώκάϊÿÿÿÿ8±ρώ/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(μρ¨ίψÿÿÿÿ8±ρώ/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½ΡΊΈ8±ρώ/
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(©‘“΅ωÿÿÿÿ8±ρώ/
+F
+java:S1659"&Declare "frontEnd" on a separate line.(¥ή»όÿÿÿÿ8±ρώ/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(½’–Υÿÿÿÿÿ8±ρώ/
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(θρ…μ8±ρώ/
+0
+java:S1220""Move this file to a named package.
+N
+java:S1121".Extract the assignment out of this expression.(–„Ερωÿÿÿÿ8±ρώ/
+B
+java:S1659""Declare "misc" on a separate line.(¥ή»όÿÿÿÿ8±ρώ/
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(θρ…μ8±ρώ/
+N
+java:S1121".Extract the assignment out of this expression.(κΩσόÿÿÿÿ8±ρώ/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ώ°υ¨8±ρώ/
